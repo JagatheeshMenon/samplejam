@@ -1,0 +1,1 @@
+# This is basic simple website with Jamstack architecture.
